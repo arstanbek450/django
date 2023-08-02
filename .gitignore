@@ -1,0 +1,7 @@
+db.sqlite3
+arstan_venv/
+*.pyc
+__pycache__/
+.idea/
+media/
+static/
